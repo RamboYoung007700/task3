@@ -2,7 +2,7 @@
 * @Author: lenovo
 * @Date:   2018-04-17 03:52:35
 * @Last Modified by:   RamboYoung007700
-* @Last Modified time: 2018-04-17 14:05:10
+* @Last Modified time: 2018-04-17 14:32:55
 */
 
     html {
@@ -79,12 +79,14 @@
         float: left;
         margin-left: 21.4%;
         color: white;
+        line-height: 5.4rem;
     }
 
     .ptt {
         float: right;
         color: white;
         margin-right: 19.2%;
+        line-height: 5.4rem;
     }
 
 
