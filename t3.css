@@ -1,8 +1,8 @@
         /*
 * @Author: lenovo
 * @Date:   2018-04-17 03:52:35
-* @Last Modified by:   lenovo
-* @Last Modified time: 2018-04-17 13:33:21
+* @Last Modified by:   RamboYoung007700
+* @Last Modified time: 2018-04-17 14:05:10
 */
 
     html {
@@ -89,45 +89,45 @@
 
 
     span {
-      font-size: 54px;
+      font-size: 5.4rem;
     }
 
     @media (max-width: 1400px) {
 
         span {
-            font-size: 36px;
+            font-size: 3.6rem;
         }
     }
 
     @media (max-width: 1000px) {
 
         span {
-            font-size: 30px;
+            font-size: 3rem;
         }
     }
 
     @media (max-width: 800px) {
 
         span {
-            font-size: 24px;
+            font-size: 2.4rem;
         }
     }
 
     @media (max-width: 600px) {
 
         span {
-            font-size: 18px;
+            font-size: 1.8rem;
         }
     }
 
     @media (max-width: 400px) {
 
         span {
-            font-size: 14px;
+            font-size: 1.4rem;
         }
 
     @media (max-width: 350px) {
 
         span {
-            font-size: 12px;
+            font-size: 1.2rem;
         }
