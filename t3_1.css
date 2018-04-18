@@ -1,0 +1,93 @@
+        /*
+* @Author: lenovo
+* @Date:   2018-04-17 03:52:35
+* @Last Modified by:   RamboYoung007700
+* @Last Modified time: 2018-04-19 01:08:33
+*/
+
+    html {
+        font-size: 62.5%;
+    }
+
+    body {
+        margin: 0px;
+        padding: 0px;
+
+        background-color: #68cdd5;
+    }
+
+    .lefttop {
+        width: 8.4%;
+        margin-left: 5.5%;
+        margin-top: 3.1%;
+    }
+
+    .lefttop img {
+        width: 100%;
+        height: 100%;
+    }
+
+
+    .biaoti {
+        width: 38.2%;
+
+        margin-left: 30.9%;
+        margin-top: 6.6%;
+    }
+
+    .biaoti img {
+        width: 100%;
+        height: 100%;
+    }
+
+    .discribe {
+        width: 71.8%;
+        margin-left: 14.1%;
+        margin-top: 18.8%;
+        color: white;
+        font-size: 1rem;
+        line-height: 1.4rem;
+        font-family: "SimHei";
+    }
+
+    .leftbottom {
+        float: left;
+        width: 13.8%;
+        margin-left: 21.4%;
+        margin-top: 24.2%;
+    }
+
+    .leftbottom img {
+        width: 100%;
+        height: 100%;
+    }
+
+    .rightbottom {
+        float: right;
+        width: 13.8%;
+        margin-right: 19.2%;
+        margin-top: 24.2%;
+    }
+
+    .rightbottom img {
+        width: 100%;
+        height: 100%;
+    }
+
+    .qqhao {
+        clear: left;
+        float: left;
+        margin-left: 14.4%;
+        color: white;
+        font-size: 0.5rem;
+       
+    }
+
+    .ptt {
+        float: right;
+        color: white;
+        margin-right: 14.2%;
+        font-size: 0.5rem;
+   
+    }
+

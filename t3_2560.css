@@ -1,0 +1,119 @@
+        /*
+* @Author: lenovo
+* @Date:   2018-04-17 03:52:35
+* @Last Modified by:   RamboYoung007700
+* @Last Modified time: 2018-04-19 01:04:24
+*/
+
+    html {
+        font-size: 62.5%;
+    }
+
+    body {
+        margin: 0px;
+        padding: 0px;
+
+        background-color: #68cdd5;
+    }
+
+    .lefttop {
+   
+        margin-left: 2.5%;
+        margin-top: 2%;
+    }
+
+
+
+
+    .biaoti {
+        margin-left: 47%;
+        margin-top: 6.6%;
+    }
+
+
+
+    .discribe {
+        width: 71.8%;
+        margin-left: 14.1%;
+        margin-top: 18.8%;
+        color: white;
+        font-size: 5rem;
+        line-height: 5.4rem;
+        font-family: "SimHei";
+    }
+
+    .leftbottom {
+        float: left;
+        margin-left: 21.4%;
+        margin-top: 24.2%;
+    }
+
+ 
+
+    .rightbottom {
+        float: right;
+        margin-right: 19.2%;
+        margin-top: 24.2%;
+    }
+
+
+
+    .qqhao {
+        clear: left;
+        float: left;
+        margin-left: 20%;
+        color: white;
+        line-height: 5.4rem;
+    }
+
+    .ptt {
+        float: right;
+        color: white;
+        margin-right: 18.2%;
+        line-height: 5.4rem;
+    }
+
+
+    span {
+      font-size: 3rem;
+    }
+
+    @media (max-width: 1400px) {
+
+        span {
+            font-size: 3rem;
+        }
+    }
+
+    @media (max-width: 1000px) {
+
+        span {
+            font-size: 3rem;
+        }
+    }
+
+    @media (max-width: 800px) {
+
+        span {
+            font-size: 2.4rem;
+        }
+    }
+
+    @media (max-width: 600px) {
+
+        span {
+            font-size: 1.8rem;
+        }
+    }
+
+    @media (max-width: 400px) {
+
+        span {
+            font-size: 1.4rem;
+        }
+
+    @media (max-width: 350px) {
+
+        span {
+            font-size: 1.2rem;
+        }
