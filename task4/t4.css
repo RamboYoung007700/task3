@@ -1,0 +1,109 @@
+/*
+* @Author: lenovo
+* @Date:   2018-04-17 22:25:41
+* @Last Modified by:   lenovo
+* @Last Modified time: 2018-04-22 00:00:30
+*/
+
+html {
+    font-size: 62.5%;
+}
+
+body {
+    margin: 0px;
+    padding: 0px;
+}
+
+.top {
+    height: 5.688rem;
+    width: 100%;
+    background-color: #5fc0cd;
+}
+
+.top span {
+    display: inline-block;
+    color: white;
+    line-height: 5.688rem;
+}
+
+.close {
+    float: left;
+    margin-left: 4.17%;
+    width: 20%;
+    text-align: left;
+    font-size: 1.422rem;
+    font-family: simsun;
+}
+
+
+.login {
+    width: 51.66%;
+    text-align: center;
+    font-size: 1.6rem;
+    font-family: simsun;
+}
+
+.reg {
+    float: right;
+    margin-right: 4.17%;
+    width: 20%;
+    text-align: right;
+    font-size: 1.422rem;
+    font-family: simsun;
+}
+
+.input {
+    height: 5.733rem;
+    background-color: #eff0f4;
+}
+
+.innerbox {
+    float: left;
+    height: 4.489rem;
+    width: 100%;
+    margin-top: 0.622rem;
+    background-color: white;
+}
+
+.innerbox img {
+    float: left;
+    padding-top: 1.333rem;
+    padding-left: 1.911rem;
+    padding-right: 2.044rem;
+    height: 18.222px;
+}
+
+.split {
+    float: left;
+    border-left: solid 2px #eff0f4;
+    margin-top: 1.133rem;
+    padding-right: 1.467rem;
+    height: 20.222px;
+}
+
+.text {
+    float: left;
+    border: none;
+    font-size: 18px;
+    margin-top: 1.133rem;
+}
+
+.footlogin {
+    height: 5.688rem;
+    width: 100%;
+    background-color: #5fc0cd;
+    color: white;
+    line-height: 5.688rem;
+    text-align: center;
+    font-size: 1.6rem;
+    font-family: simsun;
+}
+
+.forget {
+    margin-right: 3%;
+    text-align: right;
+    color: #5fc0cd;
+    font-size: 1.422rem;
+    font-family: simsun;
+    line-height: 3rem;
+}
