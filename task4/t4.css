@@ -2,7 +2,7 @@
 * @Author: lenovo
 * @Date:   2018-04-17 22:25:41
 * @Last Modified by:   RamboYoung007700
-* @Last Modified time: 2018-04-22 00:27:06
+* @Last Modified time: 2018-04-22 00:31:40
 */
 
 html {
@@ -56,6 +56,7 @@ body {
 }
 
 .input {
+    margin-top: 5.7rem;
     height: 5.733rem;
     background-color: #eff0f4;
 }
