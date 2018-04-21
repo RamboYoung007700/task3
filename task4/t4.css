@@ -2,7 +2,7 @@
 * @Author: lenovo
 * @Date:   2018-04-17 22:25:41
 * @Last Modified by:   RamboYoung007700
-* @Last Modified time: 2018-04-22 00:47:02
+* @Last Modified time: 2018-04-22 00:54:38
 */
 
 html {
@@ -74,23 +74,27 @@ body {
 }
 
 .innerbox img {
-    float: left;
-    padding-top: 1.333rem;
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
     padding-left: 1.911rem;
     padding-right: 2.044rem;
     height: 18.222px;
 }
 
 .split {
-    float: left;
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
     border-left: solid 2px #eff0f4;
-    margin-top: 1.133rem;
     padding-right: 1.467rem;
     height: 20.222px;
 }
 
 .text {
     position: relative;
+    top: 50%;
+    transform: translateY(-50%);
     border: none;
     font-size: 18px;
     top: 50%;
