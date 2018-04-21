@@ -2,7 +2,7 @@
 * @Author: lenovo
 * @Date:   2018-04-17 22:25:41
 * @Last Modified by:   RamboYoung007700
-* @Last Modified time: 2018-04-22 00:34:27
+* @Last Modified time: 2018-04-22 00:47:02
 */
 
 html {
@@ -90,10 +90,11 @@ body {
 }
 
 .text {
-    float: left;
+    position: relative;
     border: none;
     font-size: 18px;
-    margin-top: 1.133rem;
+    top: 50%;
+    transform: translateY(-50%);
 }
 
 .footlogin {
