@@ -2,7 +2,7 @@
 * @Author: lenovo
 * @Date:   2018-04-17 22:25:41
 * @Last Modified by:   RamboYoung007700
-* @Last Modified time: 2018-04-24 23:39:14
+* @Last Modified time: 2018-04-25 08:37:15
 */
 
 html {
@@ -55,14 +55,14 @@ header span {
     font-family: simsun;
 }
 
-.input {
-    display: flex;
-    margin-top: 5.688rem;
-    height: 5.733rem;
+.place{
+    height: 5.688rem;
+    width: 100%;
     background-color: #eff0f4;
+
 }
 
-.input1 {
+.input {
     display: flex;
     height: 5.733rem;
     background-color: #eff0f4;
