@@ -2,7 +2,7 @@
 * @Author: lenovo
 * @Date:   2018-04-27 22:19:27
 * @Last Modified by:   RamboYoung007700
-* @Last Modified time: 2018-04-30 10:56:44
+* @Last Modified time: 2018-04-30 11:30:19
 */
 
 html {
@@ -26,7 +26,6 @@ header {
 .image1 {
     width: 14.7px;
     padding-left: 1.33rem;
-    flex: 0 0;
 }
 
 .headtext1 {
@@ -79,7 +78,6 @@ header {
 .image3 {
     padding-top: 1.16rem;
     width: 8px;
-    flex-shrink: 0;
 }
 
 .location {
