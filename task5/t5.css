@@ -1,0 +1,238 @@
+/*
+* @Author: lenovo
+* @Date:   2018-04-27 22:19:27
+* @Last Modified by:   RamboYoung007700
+* @Last Modified time: 2018-04-30 10:56:44
+*/
+
+html {
+    font-size: 10px;
+}
+
+header {
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 100%;
+}
+
+.page {
+    display: flex;
+    height: 3.56rem;
+    background-color: #5fc0cd;
+    align-items: center;
+}
+
+.image1 {
+    width: 14.7px;
+    padding-left: 1.33rem;
+    flex: 0 0;
+}
+
+.headtext1 {
+    display: flex;
+    font-size: 1.6rem;
+    justify-content: center;
+    color: white;
+    flex: 1;
+}
+
+.holdposition {
+    width: 2.8rem;
+}
+
+.info {
+    display: flex;
+    background-image: url(bgimage.png);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    height: 14.53rem;
+    align-items: center;
+}
+
+.image2 {
+    width: 75px;
+    padding-left: 1.333rem;
+    padding-right: 1.777rem;
+}
+
+.inner {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.nameandage {
+    width: 100%;
+}
+
+.name {
+    font-size: 1.6rem;
+    color: white;
+}
+
+.age {
+    font-size: 1.244rem;
+    color: white;
+    padding-left: 1.422rem;
+}
+
+.image3 {
+    padding-top: 1.16rem;
+    width: 8px;
+    flex-shrink: 0;
+}
+
+.location {
+    font-size: 1.07rem;
+    color: white;
+    padding-left: 0.6rem;
+    padding-top: 1.16rem;
+}
+
+.staff {
+    height: 18.09rem;
+}
+
+main {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    height: 29rem;
+    align-content: stretch;
+}
+
+.row {
+    display: flex;
+    width: 100%;
+    align-items: center;
+}
+
+.first {
+    border-bottom: solid 1px #e1e5e7;
+}
+
+.split1 {
+    width: 1.333rem;
+    height: 1.2rem;
+    border-right: solid 2px #5fc0cd;
+    margin-right: 1.333rem;
+}
+
+.textsize {
+    font-size: 1.422rem;
+}
+
+.icon1 {
+    margin-left: 2.67rem;
+    margin-right: 0.5rem;
+}
+
+.icon2 {
+    margin-right: 0.5rem;
+}
+
+.image4 {
+    width: 10.7px;
+}
+
+.secondtext {
+    margin-right: 0.8rem;
+    padding-right: 0.9rem;
+    border-right: solid 1px #e1e5e7;
+}
+
+.third {
+    margin-left: 1.333rem;
+    padding-left: 1.333rem;
+    border-top: solid 1px #e1e5e7;
+    border-bottom: solid 1px #e1e5e7;
+}
+
+.thirdtext {
+    color: #999999;
+    padding-right: 1.333rem;
+    border-right: solid 1px #e1e5e7;
+    margin-right: 1.2rem;
+}
+
+.fourthtext {
+    color: #999999;
+    margin-left: 2.666rem;
+    padding-right: 1.333rem;
+    border-right: solid 1px #e1e5e7;
+    margin-right: 1.2rem;
+}
+
+.fifth {
+    margin-left: 1.333rem;
+    padding-left: 1.333rem;
+    border-top: solid 1px #e1e5e7;
+    border-bottom: solid 1px #e1e5e7;
+}
+
+.fifthtext {
+    color: #999999;
+    padding-right: 1.333rem;
+    border-right: solid 1px #e1e5e7;
+    margin-right: 1.2rem;
+}
+
+.textcolor {
+    color: #e26163;
+}
+
+.sixth {
+    padding-left: 2.666rem;
+    border-bottom: solid 1px #e1e5e7;
+}
+
+.sixthtext {
+    color: #999999;
+    padding-right: 1.333rem;
+    border-right: solid 1px #e1e5e7;
+    margin-right: 1.2rem;
+    flex: 0 0 auto;
+}
+
+.size2 {
+    font-size: 1.244rem;
+}
+
+footer {
+    position: fixed;
+    left: 0;
+    top: 49rem;
+    width: 100%;
+}
+
+.contact {
+    display: flex;
+    flex: 1;
+}
+
+.message {
+    display: flex;
+    flex: 1;
+    margin: 1%;
+    justify-content: center;
+
+    font-size: 1.511rem;
+    color: #9fd9e1;
+    border: solid 2px #9fd9e1;
+    height: 4rem;
+    align-items: center;
+}
+
+.tel {
+    display: flex;
+    flex: 1;
+    margin: 1%;
+    justify-content: center;
+
+    font-size: 1.511rem;
+    color: white;
+    background-color: #9fd9e1;
+    border: solid 2px #9fd9e1;
+    height: 4rem;
+    align-items: center;
+}
