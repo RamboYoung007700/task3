@@ -2,7 +2,7 @@
 * @Author: lenovo
 * @Date:   2018-04-27 22:19:27
 * @Last Modified by:   RamboYoung007700
-* @Last Modified time: 2018-05-01 00:41:20
+* @Last Modified time: 2018-05-01 01:00:47
 */
 
 html {
@@ -18,22 +18,22 @@ header {
 
 .page {
     display: flex;
+    align-items: center;
     height: 3.56rem;
     background-color: #5fc0cd;
-    align-items: center;
 }
 
 .image1 {
-    width: 14.7px;
     padding-left: 1.33rem;
+    width: 14.7px;
 }
 
 .headtext1 {
     display: flex;
-    font-size: 1.6rem;
-    justify-content: center;
-    color: white;
     flex: 1;
+    justify-content: center;
+    font-size: 1.6rem;
+    color: white;
 }
 
 .holdposition {
@@ -46,16 +46,16 @@ header {
 
 .info {
     display: flex;
+    align-items: center;
+    height: 14.53rem;
     background-image: url(bgimage.png);
     background-size: cover;
-    height: 14.53rem;
-    align-items: center;
 }
 
 .image2 {
-    width: 75px;
     padding-left: 1.333rem;
     padding-right: 1.777rem;
+    width: 75px;
 }
 
 .inner {
@@ -73,23 +73,22 @@ header {
 }
 
 .age {
+    padding-left: 1.422rem;
     font-size: 1.244rem;
     color: white;
-    padding-left: 1.422rem;
 }
 
 .image3 {
     padding-top: 1.4rem;
     width: 8px;
     height: 10px;
-   
 }
 
 .location {
-    font-size: 1.07rem;
-    color: white;
     padding-left: 0.6rem;
     padding-top: 1.16rem;
+    font-size: 1.07rem;
+    color: white;
 }
 
 
@@ -97,15 +96,15 @@ header {
 main {
     display: flex;
     flex-wrap: wrap;
+    align-content: stretch;
     width: 100%;
     height: 29rem;
-    align-content: stretch;
 }
 
 .row {
     display: flex;
-    width: 100%;
     align-items: center;
+    width: 100%;
 }
 
 .first {
@@ -113,10 +112,10 @@ main {
 }
 
 .split1 {
+    margin-right: 1.333rem;
+    border-right: solid 2px #5fc0cd;
     width: 1.333rem;
     height: 1.2rem;
-    border-right: solid 2px #5fc0cd;
-    margin-right: 1.333rem;
 }
 
 .textsize {
@@ -150,32 +149,32 @@ main {
 }
 
 .thirdtext {
-    color: #999999;
+    margin-right: 1.2rem;
     padding-right: 1.333rem;
     border-right: solid 1px #e1e5e7;
-    margin-right: 1.2rem;
+    color: #999999;
 }
 
 .fourthtext {
-    color: #999999;
     margin-left: 2.666rem;
-    padding-right: 1.333rem;
-    border-right: solid 1px #e1e5e7;
     margin-right: 1.2rem;
+    border-right: solid 1px #e1e5e7;
+    padding-right: 1.333rem;
+    color: #999999;
 }
 
 .fifth {
     margin-left: 1.333rem;
-    padding-left: 1.333rem;
     border-top: solid 1px #e1e5e7;
     border-bottom: solid 1px #e1e5e7;
+    padding-left: 1.333rem;
 }
 
 .fifthtext {
-    color: #999999;
-    padding-right: 1.333rem;
-    border-right: solid 1px #e1e5e7;
     margin-right: 1.2rem;
+    border-right: solid 1px #e1e5e7;
+    padding-right: 1.333rem;
+    color: #999999;
 }
 
 .textcolor {
@@ -183,16 +182,16 @@ main {
 }
 
 .sixth {
-    padding-left: 2.666rem;
     border-bottom: solid 1px #e1e5e7;
+    padding-left: 2.666rem;
 }
 
 .sixthtext {
-    color: #999999;
-    padding-right: 1.333rem;
-    border-right: solid 1px #e1e5e7;
-    margin-right: 1.2rem;
     flex: 0 0 auto;
+    margin-right: 1.2rem;
+    border-right: solid 1px #e1e5e7;
+    padding-right: 1.333rem;
+    color: #999999;
 }
 
 .size2 {
@@ -214,26 +213,24 @@ footer {
 .message {
     display: flex;
     flex: 1;
-    margin: 1%;
     justify-content: center;
-
-    font-size: 1.511rem;
-    color: #9fd9e1;
+    align-items: center;
+    margin: 1%;
     border: solid 2px #9fd9e1;
     height: 4rem;
-    align-items: center;
+    font-size: 1.511rem;
+    color: #9fd9e1;
 }
 
 .tel {
     display: flex;
     flex: 1;
-    margin: 1%;
     justify-content: center;
-
+    align-items: center;
+    margin: 1%;
+    border: solid 2px #9fd9e1;
+    height: 4rem;
     font-size: 1.511rem;
     color: white;
     background-color: #9fd9e1;
-    border: solid 2px #9fd9e1;
-    height: 4rem;
-    align-items: center;
 }
