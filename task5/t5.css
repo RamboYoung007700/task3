@@ -2,7 +2,7 @@
 * @Author: lenovo
 * @Date:   2018-04-27 22:19:27
 * @Last Modified by:   RamboYoung007700
-* @Last Modified time: 2018-04-30 11:43:02
+* @Last Modified time: 2018-05-01 00:37:12
 */
 
 html {
@@ -40,11 +40,14 @@ header {
     width: 2.8rem;
 }
 
+.staff {
+    height: 2.5rem;
+}
+
 .info {
     display: flex;
     background-image: url(bgimage.png);
-    background-size: 100% 100%;
-    background-repeat: no-repeat;
+    background-size: cover;
     height: 14.53rem;
     align-items: center;
 }
@@ -89,9 +92,7 @@ header {
     padding-top: 1.16rem;
 }
 
-.staff {
-    height: 18.09rem;
-}
+
 
 main {
     display: flex;
@@ -201,7 +202,7 @@ main {
 footer {
     position: fixed;
     left: 0;
-    top: 49rem;
+    bottom: 0;
     width: 100%;
 }
 
