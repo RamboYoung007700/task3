@@ -2,7 +2,7 @@
 * @Author: lenovo
 * @Date:   2018-04-27 22:19:27
 * @Last Modified by:   RamboYoung007700
-* @Last Modified time: 2018-05-01 10:16:02
+* @Last Modified time: 2018-05-01 10:20:49
 */
 
 html {
@@ -205,6 +205,7 @@ footer {
     left: 0;
     bottom: 0;
     width: 100%;
+    opacity: 1;
 }
 
 .contact {
