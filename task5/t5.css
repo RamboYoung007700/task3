@@ -2,7 +2,7 @@
 * @Author: lenovo
 * @Date:   2018-04-27 22:19:27
 * @Last Modified by:   RamboYoung007700
-* @Last Modified time: 2018-05-01 10:12:09
+* @Last Modified time: 2018-05-01 10:16:02
 */
 
 html {
@@ -43,13 +43,12 @@ header {
     width: 2.8rem;
 }
 
-.staff {
-    height: 2.5rem;
-}
 
 .info {
+	margin-top: 3.56rem;
     display: flex;
     align-items: center;
+    width: 100%;
     height: 14.53rem;
     background-image: url(bgimage.png);
     background-size: cover;
