@@ -2,7 +2,7 @@
 * @Author: lenovo
 * @Date:   2018-04-27 22:19:27
 * @Last Modified by:   RamboYoung007700
-* @Last Modified time: 2018-05-01 10:07:57
+* @Last Modified time: 2018-05-01 10:12:09
 */
 
 html {
@@ -223,8 +223,7 @@ footer {
     height: 4rem;
     font-size: 1.511rem;
     color: #9fd9e1;
-    background-color: #fff;
-    opacity: 1;
+    background-color: rgba(255,255,255,1);
 }
 
 .tel {
@@ -238,5 +237,4 @@ footer {
     font-size: 1.511rem;
     color: white;
     background-color: #9fd9e1;
-    opacity: 1;
 }
